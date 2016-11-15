@@ -1,0 +1,1586 @@
+{
+  "citygroup": [
+    {
+      "letter": "A",
+      "citys": [
+        {
+          "province": "澳门",
+          "city": "澳门特别行政区"
+        },
+        {
+          "province": "四川省",
+          "city": "阿坝"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "阿克苏"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "阿拉尔"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "阿拉善"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "阿勒泰"
+        },
+        {
+          "province": "西藏自治区",
+          "city": "阿里"
+        },
+        {
+          "province": "陕西省",
+          "city": "安康"
+        },
+        {
+          "province": "安徽省",
+          "city": "安庆"
+        },
+        {
+          "province": "贵州省",
+          "city": "安顺"
+        },
+        {
+          "province": "河南省",
+          "city": "安阳"
+        },
+        {
+          "province": "辽宁省",
+          "city": "鞍山"
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "citys": [
+        {
+          "province": "内蒙古自治区",
+          "city": "巴彦淖尔"
+        },
+        {
+          "province": "四川省",
+          "city": "巴中"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "巴州"
+        },
+        {
+          "province": "吉林省",
+          "city": "白城"
+        },
+        {
+          "province": "海南省",
+          "city": "白沙"
+        },
+        {
+          "province": "吉林省",
+          "city": "白山"
+        },
+        {
+          "province": "甘肃省",
+          "city": "白银"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "百色"
+        },
+        {
+          "province": "安徽省",
+          "city": "蚌埠"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "包头"
+        },
+        {
+          "province": "陕西省",
+          "city": "宝鸡"
+        },
+        {
+          "province": "河北省",
+          "city": "保定"
+        },
+        {
+          "province": "云南省",
+          "city": "保山"
+        },
+        {
+          "province": "海南省",
+          "city": "保亭"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "北海"
+        },
+        {
+          "province": "北京",
+          "city": "北京"
+        },
+        {
+          "province": "辽宁省",
+          "city": "本溪"
+        },
+        {
+          "province": "贵州省",
+          "city": "毕节"
+        },
+        {
+          "province": "山东省",
+          "city": "滨州"
+        },
+        {
+          "province": "安徽省",
+          "city": "亳州"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "博州"
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "citys": [
+        {
+          "province": "河北省",
+          "city": "沧州"
+        },
+        {
+          "province": "西藏自治区",
+          "city": "昌都"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "昌吉"
+        },
+        {
+          "province": "海南省",
+          "city": "昌江"
+        },
+        {
+          "province": "湖南省",
+          "city": "常德"
+        },
+        {
+          "province": "江苏省",
+          "city": "常州"
+        },
+        {
+          "province": "安徽省",
+          "city": "巢湖"
+        },
+        {
+          "province": "辽宁省",
+          "city": "朝阳"
+        },
+        {
+          "province": "广东省",
+          "city": "潮州"
+        },
+        {
+          "province": "湖南省",
+          "city": "郴州"
+        },
+        {
+          "province": "四川省",
+          "city": "成都"
+        },
+        {
+          "province": "河北省",
+          "city": "承德"
+        },
+        {
+          "province": "海南省",
+          "city": "澄迈"
+        },
+        {
+          "province": "安徽省",
+          "city": "池州"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "赤峰"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "崇左"
+        },
+        {
+          "province": "安徽省",
+          "city": "滁州"
+        },
+        {
+          "province": "云南省",
+          "city": "楚雄"
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "citys": [
+        {
+          "province": "四川省",
+          "city": "达州"
+        },
+        {
+          "province": "云南省",
+          "city": "大理"
+        },
+        {
+          "province": "辽宁省",
+          "city": "大连"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "大庆"
+        },
+        {
+          "province": "山西省",
+          "city": "大同"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "大兴安岭"
+        },
+        {
+          "province": "辽宁省",
+          "city": "丹东"
+        },
+        {
+          "province": "海南省",
+          "city": "儋州"
+        },
+        {
+          "province": "云南省",
+          "city": "德宏"
+        },
+        {
+          "province": "四川省",
+          "city": "德阳"
+        },
+        {
+          "province": "山东省",
+          "city": "德州"
+        },
+        {
+          "province": "云南省",
+          "city": "迪庆州"
+        },
+        {
+          "province": "海南省",
+          "city": "定安"
+        },
+        {
+          "province": "甘肃省",
+          "city": "定西"
+        },
+        {
+          "province": "海南省",
+          "city": "东方"
+        },
+        {
+          "province": "甘肃省",
+          "city": "东风"
+        },
+        {
+          "province": "广东省",
+          "city": "东莞"
+        },
+        {
+          "province": "山东省",
+          "city": "东营"
+        }
+      ]
+    },
+    {
+      "letter": "E",
+      "citys": [
+        {
+          "province": "内蒙古自治区",
+          "city": "鄂尔多斯"
+        },
+        {
+          "province": "湖北省",
+          "city": "鄂州"
+        },
+        {
+          "province": "湖北省",
+          "city": "恩施"
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "citys": [
+        {
+          "province": "广西壮族自治区",
+          "city": "防城港"
+        },
+        {
+          "province": "广东省",
+          "city": "佛山"
+        },
+        {
+          "province": "福建省",
+          "city": "福州"
+        },
+        {
+          "province": "辽宁省",
+          "city": "抚顺"
+        },
+        {
+          "province": "江西省",
+          "city": "抚州"
+        },
+        {
+          "province": "辽宁省",
+          "city": "阜新"
+        },
+        {
+          "province": "安徽省",
+          "city": "阜阳"
+        }
+      ]
+    },
+    {
+      "letter": "G",
+      "citys": [
+        {
+          "province": "甘肃省",
+          "city": "甘南州"
+        },
+        {
+          "province": "四川省",
+          "city": "甘孜"
+        },
+        {
+          "province": "江西省",
+          "city": "赣州"
+        },
+        {
+          "province": "宁夏回族自治区",
+          "city": "固原"
+        },
+        {
+          "province": "四川省",
+          "city": "广安"
+        },
+        {
+          "province": "四川省",
+          "city": "广元"
+        },
+        {
+          "province": "广东省",
+          "city": "广州"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "贵港"
+        },
+        {
+          "province": "贵州省",
+          "city": "贵阳"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "桂林"
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "citys": [
+        {
+          "province": "黑龙江省",
+          "city": "哈尔滨"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "哈密"
+        },
+        {
+          "province": "青海省",
+          "city": "海东"
+        },
+        {
+          "province": "海南省",
+          "city": "海口"
+        },
+        {
+          "province": "河北省",
+          "city": "邯郸"
+        },
+        {
+          "province": "陕西省",
+          "city": "汉中"
+        },
+        {
+          "province": "浙江省",
+          "city": "杭州"
+        },
+        {
+          "province": "安徽省",
+          "city": "合肥"
+        },
+        {
+          "province": "甘肃省",
+          "city": "合作"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "和田"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "河池"
+        },
+        {
+          "province": "广东省",
+          "city": "河源"
+        },
+        {
+          "province": "山东省",
+          "city": "菏泽"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "贺州"
+        },
+        {
+          "province": "河南省",
+          "city": "鹤壁"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "鹤岗"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "黑河"
+        },
+        {
+          "province": "河北省",
+          "city": "衡水"
+        },
+        {
+          "province": "湖南省",
+          "city": "衡阳"
+        },
+        {
+          "province": "云南省",
+          "city": "红河"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "呼和浩特"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "呼伦贝尔"
+        },
+        {
+          "province": "辽宁省",
+          "city": "葫芦岛"
+        },
+        {
+          "province": "浙江省",
+          "city": "湖州"
+        },
+        {
+          "province": "湖南省",
+          "city": "怀化"
+        },
+        {
+          "province": "江苏省",
+          "city": "淮安"
+        },
+        {
+          "province": "安徽省",
+          "city": "淮北"
+        },
+        {
+          "province": "安徽省",
+          "city": "淮南"
+        },
+        {
+          "province": "湖北省",
+          "city": "黄冈"
+        },
+        {
+          "province": "安徽省",
+          "city": "黄山"
+        },
+        {
+          "province": "湖北省",
+          "city": "黄石"
+        },
+        {
+          "province": "广东省",
+          "city": "惠州"
+        }
+      ]
+    },
+    {
+      "letter": "J",
+      "citys": [
+        {
+          "province": "黑龙江省",
+          "city": "鸡西"
+        },
+        {
+          "province": "江西省",
+          "city": "吉安"
+        },
+        {
+          "province": "吉林省",
+          "city": "吉林"
+        },
+        {
+          "province": "山东省",
+          "city": "济南"
+        },
+        {
+          "province": "山东省",
+          "city": "济宁"
+        },
+        {
+          "province": "河南省",
+          "city": "济源"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "佳木斯"
+        },
+        {
+          "province": "浙江省",
+          "city": "嘉兴"
+        },
+        {
+          "province": "甘肃省",
+          "city": "嘉峪关"
+        },
+        {
+          "province": "广东省",
+          "city": "江门"
+        },
+        {
+          "province": "河南省",
+          "city": "焦作"
+        },
+        {
+          "province": "广东省",
+          "city": "揭阳"
+        },
+        {
+          "province": "甘肃省",
+          "city": "金昌"
+        },
+        {
+          "province": "浙江省",
+          "city": "金华"
+        },
+        {
+          "province": "辽宁省",
+          "city": "锦州"
+        },
+        {
+          "province": "山西省",
+          "city": "晋城"
+        },
+        {
+          "province": "山西省",
+          "city": "晋城"
+        },
+        {
+          "province": "山西省",
+          "city": "晋中"
+        },
+        {
+          "province": "湖北省",
+          "city": "荆门"
+        },
+        {
+          "province": "江西省",
+          "city": "景德镇"
+        },
+        {
+          "province": "江西省",
+          "city": "九江"
+        },
+        {
+          "province": "甘肃省",
+          "city": "酒泉"
+        }
+      ]
+    },
+    {
+      "letter": "K",
+      "citys": [
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "喀什"
+        },
+        {
+          "province": "河南省",
+          "city": "开封"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "克拉玛依"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "克州"
+        },
+        {
+          "province": "甘肃省",
+          "city": "矿区"
+        },
+        {
+          "province": "云南省",
+          "city": "昆明"
+        },
+        {
+          "province": "江苏省",
+          "city": "昆山"
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "citys": [
+        {
+          "province": "西藏自治区",
+          "city": "拉萨"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "来宾"
+        },
+        {
+          "province": "山东省",
+          "city": "莱芜"
+        },
+        {
+          "province": "甘肃省",
+          "city": "兰州"
+        },
+        {
+          "province": "河北省",
+          "city": "廊坊"
+        },
+        {
+          "province": "海南省",
+          "city": "乐东"
+        },
+        {
+          "province": "四川省",
+          "city": "乐山"
+        },
+        {
+          "province": "山西省",
+          "city": "离石"
+        },
+        {
+          "province": "云南省",
+          "city": "丽江"
+        },
+        {
+          "province": "浙江省",
+          "city": "丽水"
+        },
+        {
+          "province": "江苏省",
+          "city": "连云港"
+        },
+        {
+          "province": "四川省",
+          "city": "凉山"
+        },
+        {
+          "province": "辽宁省",
+          "city": "辽阳"
+        },
+        {
+          "province": "吉林省",
+          "city": "辽源"
+        },
+        {
+          "province": "山东省",
+          "city": "聊城"
+        },
+        {
+          "province": "西藏自治区",
+          "city": "林芝"
+        },
+        {
+          "province": "云南省",
+          "city": "临沧"
+        },
+        {
+          "province": "山西省",
+          "city": "临汾"
+        },
+        {
+          "province": "海南省",
+          "city": "临高"
+        },
+        {
+          "province": "甘肃省",
+          "city": "临夏"
+        },
+        {
+          "province": "山东省",
+          "city": "临沂"
+        },
+        {
+          "province": "海南省",
+          "city": "陵水"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "柳州"
+        },
+        {
+          "province": "安徽省",
+          "city": "六安"
+        },
+        {
+          "province": "贵州省",
+          "city": "六盘水"
+        },
+        {
+          "province": "福建省",
+          "city": "龙岩"
+        },
+        {
+          "province": "甘肃省",
+          "city": "陇南"
+        },
+        {
+          "province": "湖南省",
+          "city": "娄底"
+        },
+        {
+          "province": "四川省",
+          "city": "泸州"
+        },
+        {
+          "province": "河南省",
+          "city": "洛阳"
+        },
+        {
+          "province": "河南省",
+          "city": "漯河"
+        },
+        {
+          "province": "山西省",
+          "city": "吕梁"
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "citys": [
+        {
+          "province": "安徽省",
+          "city": "马鞍山"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "马兰"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "满洲里"
+        },
+        {
+          "province": "广东省",
+          "city": "茂名"
+        },
+        {
+          "province": "四川省",
+          "city": "眉山"
+        },
+        {
+          "province": "广东省",
+          "city": "梅州"
+        },
+        {
+          "province": "四川省",
+          "city": "绵阳"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "牡丹江"
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "citys": [
+        {
+          "province": "西藏自治区",
+          "city": "那曲"
+        },
+        {
+          "province": "江西省",
+          "city": "南昌"
+        },
+        {
+          "province": "四川省",
+          "city": "南充"
+        },
+        {
+          "province": "江苏省",
+          "city": "南京"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "南宁"
+        },
+        {
+          "province": "福建省",
+          "city": "南平"
+        },
+        {
+          "province": "江苏省",
+          "city": "南通"
+        },
+        {
+          "province": "河南省",
+          "city": "南阳"
+        },
+        {
+          "province": "四川省",
+          "city": "内江"
+        },
+        {
+          "province": "浙江省",
+          "city": "宁波"
+        },
+        {
+          "province": "福建省",
+          "city": "宁德"
+        },
+        {
+          "province": "云南省",
+          "city": "怒江"
+        }
+      ]
+    },
+    {
+      "letter": "P",
+      "citys": [
+        {
+          "province": "四川省",
+          "city": "攀枝花"
+        },
+        {
+          "province": "辽宁省",
+          "city": "盘锦"
+        },
+        {
+          "province": "河南省",
+          "city": "平顶山"
+        },
+        {
+          "province": "甘肃省",
+          "city": "平凉"
+        },
+        {
+          "province": "江西省",
+          "city": "萍乡"
+        },
+        {
+          "province": "福建省",
+          "city": "莆田"
+        },
+        {
+          "province": "河南省",
+          "city": "濮阳"
+        }
+      ]
+    },
+    {
+      "letter": "Q",
+      "citys": [
+        {
+          "province": "黑龙江省",
+          "city": "七台河"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "齐齐哈尔"
+        },
+        {
+          "province": "贵州省",
+          "city": "黔东南"
+        },
+        {
+          "province": "贵州省",
+          "city": "黔南"
+        },
+        {
+          "province": "贵州省",
+          "city": "黔西南"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "钦州"
+        },
+        {
+          "province": "河北省",
+          "city": "秦皇岛"
+        },
+        {
+          "province": "山东省",
+          "city": "青岛"
+        },
+        {
+          "province": "广东省",
+          "city": "清远"
+        },
+        {
+          "province": "甘肃省",
+          "city": "庆阳"
+        },
+        {
+          "province": "海南省",
+          "city": "琼海"
+        },
+        {
+          "province": "海南省",
+          "city": "琼中"
+        },
+        {
+          "province": "浙江省",
+          "city": "衢州"
+        },
+        {
+          "province": "云南省",
+          "city": "曲靖"
+        },
+        {
+          "province": "福建省",
+          "city": "泉州"
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "citys": [
+        {
+          "province": "西藏自治区",
+          "city": "日喀则"
+        },
+        {
+          "province": "山东省",
+          "city": "日照"
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "citys": [
+        {
+          "province": "河南省",
+          "city": "三门峡"
+        },
+        {
+          "province": "福建省",
+          "city": "三明"
+        },
+        {
+          "province": "湖北省",
+          "city": "三峡"
+        },
+        {
+          "province": "海南省",
+          "city": "三亚"
+        },
+        {
+          "province": "福建省",
+          "city": "厦门"
+        },
+        {
+          "province": "西藏自治区",
+          "city": "山南"
+        },
+        {
+          "province": "广东省",
+          "city": "汕头"
+        },
+        {
+          "province": "广东省",
+          "city": "汕尾"
+        },
+        {
+          "province": "陕西省",
+          "city": "商洛"
+        },
+        {
+          "province": "河南省",
+          "city": "商丘"
+        },
+        {
+          "province": "上海",
+          "city": "上海"
+        },
+        {
+          "province": "江西省",
+          "city": "上饶"
+        },
+        {
+          "province": "广东省",
+          "city": "韶关"
+        },
+        {
+          "province": "湖南省",
+          "city": "邵阳"
+        },
+        {
+          "province": "浙江省",
+          "city": "绍兴"
+        },
+        {
+          "province": "广东省",
+          "city": "深圳"
+        },
+        {
+          "province": "湖北省",
+          "city": "神农架"
+        },
+        {
+          "province": "辽宁省",
+          "city": "沈阳"
+        },
+        {
+          "province": "湖北省",
+          "city": "十堰"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "石河子"
+        },
+        {
+          "province": "河北省",
+          "city": "石家庄"
+        },
+        {
+          "province": "宁夏回族自治区",
+          "city": "石嘴山"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "双鸭山"
+        },
+        {
+          "province": "山西省",
+          "city": "朔州"
+        },
+        {
+          "province": "云南省",
+          "city": "思茅"
+        },
+        {
+          "province": "吉林省",
+          "city": "四平"
+        },
+        {
+          "province": "吉林省",
+          "city": "松原"
+        },
+        {
+          "province": "江苏省",
+          "city": "苏州"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "绥化"
+        },
+        {
+          "province": "湖北省",
+          "city": "随州"
+        },
+        {
+          "province": "四川省",
+          "city": "遂宁"
+        },
+        {
+          "province": "四川省",
+          "city": "塔城"
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "citys": [
+        {
+          "province": "浙江省",
+          "city": "台州"
+        },
+        {
+          "province": "山西省",
+          "city": "太原"
+        },
+        {
+          "province": "山东省",
+          "city": "泰安"
+        },
+        {
+          "province": "江苏省",
+          "city": "泰州"
+        },
+        {
+          "province": "台湾",
+          "city": "台湾省"
+        },
+        {
+          "province": "河北省",
+          "city": "唐山"
+        },
+        {
+          "province": "天津",
+          "city": "天津"
+        },
+        {
+          "province": "湖北省",
+          "city": "天门"
+        },
+        {
+          "province": "甘肃省",
+          "city": "天水"
+        },
+        {
+          "province": "辽宁省",
+          "city": "铁岭"
+        },
+        {
+          "province": "吉林省",
+          "city": "通化"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "通辽"
+        },
+        {
+          "province": "陕西省",
+          "city": "铜川"
+        },
+        {
+          "province": "安徽省",
+          "city": "铜陵"
+        },
+        {
+          "province": "贵州省",
+          "city": "铜仁"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "吐鲁番"
+        },
+        {
+          "province": "海南省",
+          "city": "屯昌"
+        }
+      ]
+    },
+    {
+      "letter": "W",
+      "citys": [
+        {
+          "province": "海南省",
+          "city": "万宁"
+        },
+        {
+          "province": "山东省",
+          "city": "威海"
+        },
+        {
+          "province": "山东省",
+          "city": "潍坊"
+        },
+        {
+          "province": "陕西省",
+          "city": "渭南"
+        },
+        {
+          "province": "浙江省",
+          "city": "温州"
+        },
+        {
+          "province": "海南省",
+          "city": "文昌"
+        },
+        {
+          "province": "云南省",
+          "city": "文山"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "乌海"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "乌兰察布"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "乌鲁木齐"
+        },
+        {
+          "province": "江苏省",
+          "city": "无锡"
+        },
+        {
+          "province": "安徽省",
+          "city": "芜湖"
+        },
+        {
+          "province": "宁夏回族自治区",
+          "city": "吴忠"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "梧州"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "五家渠"
+        },
+        {
+          "province": "海南省",
+          "city": "五指山"
+        },
+        {
+          "province": "湖北省",
+          "city": "武汉"
+        },
+        {
+          "province": "甘肃省",
+          "city": "武威"
+        }
+      ]
+    },
+    {
+      "letter": "X",
+      "citys": [
+        {
+          "province": "陕西省",
+          "city": "西安"
+        },
+        {
+          "province": "青海省",
+          "city": "西宁"
+        },
+        {
+          "province": "云南省",
+          "city": "西双版纳"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "锡林郭勒"
+        },
+        {
+          "province": "香港",
+          "city": "香港特别行政区"
+        },
+        {
+          "province": "湖北省",
+          "city": "咸宁"
+        },
+        {
+          "province": "陕西省",
+          "city": "咸阳"
+        },
+        {
+          "province": "湖南省",
+          "city": "湘潭"
+        },
+        {
+          "province": "湖南省",
+          "city": "湘西"
+        },
+        {
+          "province": "湖北省",
+          "city": "襄樊"
+        },
+        {
+          "province": "湖北省",
+          "city": "孝感"
+        },
+        {
+          "province": "山西省",
+          "city": "忻州"
+        },
+        {
+          "province": "河南省",
+          "city": "新乡"
+        },
+        {
+          "province": "江西省",
+          "city": "新余"
+        },
+        {
+          "province": "河南省",
+          "city": "信阳"
+        },
+        {
+          "province": "河北省",
+          "city": "邢台"
+        },
+        {
+          "province": "内蒙古自治区",
+          "city": "兴安"
+        },
+        {
+          "province": "江苏省",
+          "city": "宿迁"
+        },
+        {
+          "province": "安徽省",
+          "city": "宿州"
+        },
+        {
+          "province": "江苏省",
+          "city": "胥浦"
+        },
+        {
+          "province": "江苏省",
+          "city": "徐州"
+        },
+        {
+          "province": "河南省",
+          "city": "许昌"
+        },
+        {
+          "province": "安徽省",
+          "city": "宣城"
+        }
+      ]
+    },
+    {
+      "letter": "Y",
+      "citys": [
+        {
+          "province": "四川省",
+          "city": "雅安"
+        },
+        {
+          "province": "山东省",
+          "city": "烟台"
+        },
+        {
+          "province": "陕西省",
+          "city": "延安"
+        },
+        {
+          "province": "吉林省",
+          "city": "延边"
+        },
+        {
+          "province": "江苏省",
+          "city": "盐城"
+        },
+        {
+          "province": "江苏省",
+          "city": "扬州"
+        },
+        {
+          "province": "广东省",
+          "city": "阳江"
+        },
+        {
+          "province": "山西省",
+          "city": "阳泉"
+        },
+        {
+          "province": "海南省",
+          "city": "洋浦"
+        },
+        {
+          "province": "黑龙江省",
+          "city": "伊春"
+        },
+        {
+          "province": "新疆维吾尔自治区",
+          "city": "伊犁"
+        },
+        {
+          "province": "四川省",
+          "city": "宜宾"
+        },
+        {
+          "province": "湖北省",
+          "city": "宜昌"
+        },
+        {
+          "province": "江西省",
+          "city": "宜春"
+        },
+        {
+          "province": "湖南省",
+          "city": "益阳"
+        },
+        {
+          "province": "宁夏回族自治区",
+          "city": "银川"
+        },
+        {
+          "province": "江西省",
+          "city": "鹰潭"
+        },
+        {
+          "province": "辽宁省",
+          "city": "营口"
+        },
+        {
+          "province": "湖南省",
+          "city": "永州"
+        },
+        {
+          "province": "山西省",
+          "city": "榆次"
+        },
+        {
+          "province": "陕西省",
+          "city": "榆林"
+        },
+        {
+          "province": "广西壮族自治区",
+          "city": "玉林"
+        },
+        {
+          "province": "云南省",
+          "city": "玉溪"
+        },
+        {
+          "province": "湖南省",
+          "city": "岳阳"
+        },
+        {
+          "province": "广东省",
+          "city": "云浮"
+        },
+        {
+          "province": "山西省",
+          "city": "运城"
+        }
+      ]
+    },
+    {
+      "letter": "Z",
+      "citys": [
+        {
+          "province": "山东省",
+          "city": "枣庄"
+        },
+        {
+          "province": "广东省",
+          "city": "湛江"
+        },
+        {
+          "province": "湖南省",
+          "city": "张家界"
+        },
+        {
+          "province": "河北省",
+          "city": "张家口"
+        },
+        {
+          "province": "甘肃省",
+          "city": "张掖"
+        },
+        {
+          "province": "福建省",
+          "city": "漳州"
+        },
+        {
+          "province": "吉林省",
+          "city": "长春"
+        },
+        {
+          "province": "湖南省",
+          "city": "长沙"
+        },
+        {
+          "province": "山西省",
+          "city": "长治"
+        },
+        {
+          "province": "云南省",
+          "city": "昭通"
+        },
+        {
+          "province": "广东省",
+          "city": "肇庆"
+        },
+        {
+          "province": "江苏省",
+          "city": "镇江"
+        },
+        {
+          "province": "河南省",
+          "city": "郑州"
+        },
+        {
+          "province": "云南省",
+          "city": "中甸"
+        },
+        {
+          "province": "广东省",
+          "city": "中山"
+        },
+        {
+          "province": "宁夏回族自治区",
+          "city": "中卫"
+        },
+        {
+          "province": "重庆",
+          "city": "重庆"
+        },
+        {
+          "province": "浙江省",
+          "city": "舟山"
+        },
+        {
+          "province": "河南省",
+          "city": "周口"
+        },
+        {
+          "province": "广东省",
+          "city": "珠海"
+        },
+        {
+          "province": "湖南省",
+          "city": "株洲"
+        },
+        {
+          "province": "河南省",
+          "city": "驻马店"
+        },
+        {
+          "province": "四川省",
+          "city": "资阳"
+        },
+        {
+          "province": "山东省",
+          "city": "淄博"
+        },
+        {
+          "province": "四川省",
+          "city": "自贡"
+        },
+        {
+          "province": "贵州省",
+          "city": "遵义"
+        }
+      ]
+    }
+  ]
+}
