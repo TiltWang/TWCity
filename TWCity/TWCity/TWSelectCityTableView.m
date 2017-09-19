@@ -76,7 +76,10 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     TWCityGroupListModel *listModel = self.groupModelList[indexPath.section];
     TWCityModel *cityModel = listModel.citys[indexPath.row];
-    _selectCellBlock(cityModel);
+    if (_selectCellBlock) {
+        _selectCellBlock(cityModel);
+    }
+    
 }
 
 - (nullable NSArray<NSString *> *)sectionIndexTitlesForTableView:(UITableView *)tableView {

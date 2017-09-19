@@ -60,7 +60,11 @@
     };
     self.selectCityTableView.selectCellBlock = ^(TWCityModel *cityModel){
         [wSelf.navigationController popViewControllerAnimated:YES];
-        wSelf.backBlock(cityModel);
+        NSLog(@"%@", cityModel.city);
+        if (wSelf.backBlock) {
+            wSelf.backBlock(cityModel);
+        }
+        
     };
 }
 + (void)show:(UIViewController *)viewController withBackBlock:(void(^)(TWCityModel *cityModel))backBlock {
